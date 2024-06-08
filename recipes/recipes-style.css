@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: white;
+    background-color: seagreen;
+    font-weight: lighter;
+}
+
+.header {
+    font-weight: lighter;
+    font-style: initial;
+    background-color: yellow;
+}
+
+.header#description {
+    background-color: orange;
+    font-size: small;
+    font-style: italic;
+}
